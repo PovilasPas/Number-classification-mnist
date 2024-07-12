@@ -36,6 +36,7 @@ Ranka rašytų skaičių klasifikacijai apmokytas daugiasluoksnis perceptronas. 
 <br>
 Aplikacijos, leidžiančios išbandyti sukurtą skaičių klasifikacijos modelį, vartotojo sąsajos pavyzdys pateiktas žemiau.
 <br>
+<br>
 <div align="center">
   
 | ![Sukurtos aplikacijos vartotojo sąsajos pavyzdys](gui/gui_example.png) |
